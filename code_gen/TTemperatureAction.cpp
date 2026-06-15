@@ -22,16 +22,38 @@ void TTemperatureAction::update(TSubject* subject) {
     if (thermometer) {
         float currentTemp = thermometer->getMeasurement();
         if (currentTemp >= 80.0) {
-            std::cout << "AKCJA: Pozar! Wzywam sluzby.\n";
+            std::cout << "AKCJA: Pozar!\n";
+            setAC(false);
+            setHeating(false);
+            setAlarm(true);
         }
         else if (currentTemp > 25.0) {
-            std::cout << "AKCJA: Zbyt goraco! Wlaczam klimatyzacje.\n";
+            std::cout << "AKCJA: Zbyt goraco!\n";
+            setHeating(false);
+            setAC(true);
         }
         else if (currentTemp < 19.0) {
-            std::cout << "AKCJA: Zbyt zimno! Wlaczam ogrzewanie.\n";
+            std::cout << "AKCJA: Zbyt zimno!\n";
+            setAC(false);
+            setHeating(true);
         }
         else {
             std::cout << "AKCJA: Temperatura optymalna. Brak akcji.\n";
         }
     }
+}
+
+void TTemperatureAction::setAC(bool status) {
+    if (status == true) std::cout << "Wlaczam klimatyzacje.\n";
+    else std::cout << "Wylaczam klimatyzacje.\n";
+}
+
+void TTemperatureAction::setHeating(bool status) {
+    if (status == true) std::cout << "Wlaczam ogrzewanie.\n";
+    else std::cout << "Wylaczam ogrzewanie.\n";
+}
+
+void TTemperatureAction::setAlarm(bool status) {
+    if (status == true) std::cout << "Wlaczam alarm.\nWzywam sluzby.\n";
+    else std::cout << "Odwolanie alarmu.\n";
 }

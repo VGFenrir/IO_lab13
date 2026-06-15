@@ -18,6 +18,9 @@
 class TTemperatureAction : public IObserver {
 public:
 	void update(TSubject* ) override;
+	void setHeating(bool status);
+	void setAC(bool status);
+	void setAlarm(bool status);
 };
 
 #endif  //_TTEMPERATUREACTION_H
