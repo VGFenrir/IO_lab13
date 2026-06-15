@@ -1,0 +1,3 @@
+C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir
+C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

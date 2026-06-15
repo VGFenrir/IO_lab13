@@ -1,0 +1,1 @@
+obserwator monitorujący temperaturę w pomieszczeniu w odpowiedzi na zmianę stanu zostanie wykonana akcja

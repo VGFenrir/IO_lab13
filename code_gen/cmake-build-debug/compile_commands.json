@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS -IC:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\headers /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\code_gen.dir\\IObserver.cpp.obj /FdCMakeFiles\\code_gen.dir\\ /FS -c C:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\IObserver.cpp",
+  "file": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/IObserver.cpp",
+  "output": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir/IObserver.cpp.obj"
+},
+{
+  "directory": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS -IC:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\headers /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\code_gen.dir\\TSubject.cpp.obj /FdCMakeFiles\\code_gen.dir\\ /FS -c C:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\TSubject.cpp",
+  "file": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/TSubject.cpp",
+  "output": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir/TSubject.cpp.obj"
+},
+{
+  "directory": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS -IC:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\headers /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\code_gen.dir\\TTemperatureAction.cpp.obj /FdCMakeFiles\\code_gen.dir\\ /FS -c C:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\TTemperatureAction.cpp",
+  "file": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/TTemperatureAction.cpp",
+  "output": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir/TTemperatureAction.cpp.obj"
+},
+{
+  "directory": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS -IC:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\headers /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\code_gen.dir\\TThermometer.cpp.obj /FdCMakeFiles\\code_gen.dir\\ /FS -c C:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\TThermometer.cpp",
+  "file": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/TThermometer.cpp",
+  "output": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir/TThermometer.cpp.obj"
+},
+{
+  "directory": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_MBCS -IC:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\headers /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\code_gen.dir\\main.cpp.obj /FdCMakeFiles\\code_gen.dir\\ /FS -c C:\\Users\\kajet\\Documents\\Studia\\Inżynieria\\lab13\\code_gen\\main.cpp",
+  "file": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/main.cpp",
+  "output": "C:/Users/kajet/Documents/Studia/Inżynieria/lab13/code_gen/cmake-build-debug/CMakeFiles/code_gen.dir/main.cpp.obj"
+}
+]
